@@ -1,6 +1,6 @@
 # Hi there, I'm Akila Jayarathna 👋
 
-Software & Data Engineer based in Sri Lanka, bridging software development with data pipelines and analytics.
+Aspiring Software & Data Engineer based in Sri Lanka, bridging software development with data pipelines and analytics.
 
 ---
 
@@ -23,7 +23,6 @@ Software & Data Engineer based in Sri Lanka, bridging software development with 
 **Frontend & Frameworks:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
